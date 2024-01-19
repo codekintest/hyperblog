@@ -18,3 +18,4 @@ Codekin queda contratado para colaborar en este proyecto
 
 Estoy agrendo una nueva linea en este ejemplo
 
+Ahora estoy editando mi archivo desde una nueva linea pero esto con el fin de poder aprender git
